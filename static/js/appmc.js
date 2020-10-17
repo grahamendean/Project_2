@@ -13,6 +13,12 @@ d3.csv("Data/merge.csv").then(function(ozoneData, err) {
     // var ozoneState = ozoneData.state_name_x;
     // var pmState = ozoneData.state_name_y;
 
+    //d3.selectAll(".nav-link dropdown-toggle active").on("change", updatePlotly);
+
+    function updatePlotly(params) {
+
+}
+
     var ctx = document.getElementById('myChart').getContext('2d');
 
     let myChart = new Chart (ctx, {
