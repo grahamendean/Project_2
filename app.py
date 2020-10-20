@@ -26,16 +26,16 @@ app = Flask(__name__)
 
 #create route for homepage that displays the heat map.
 @app.route('/')
-def heat_map():
-    return render_template('indexMC.html')
+def index():
+    return render_template('indexStateMean2.html')
 
 
 
 
 #create another route that will display the js graphs
-# @app.route("/graphs")
-# def graph():
-#     return render_template('indexMC.html')
+@app.route("/graphs")
+def graph():
+    return render_template('indexMC.html')
 
 
 
