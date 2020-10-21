@@ -16,6 +16,10 @@ It may also be correlated to individual health outcomes in certain geographic re
 We are analyzing this information as an academic endeavor focused on the use of Python, JavaScript, D3, and Leaflet for analytics and modeling.
 In this scenario, our deliverable will be meaningful visual outputs integrating end-user interactive functionality.  
 
+Process Flow Chart 
+https://github.com/grahamendean/Project_2/blob/main/Screen%20Shot%202020-10-14%20at%2011.33.32%20AM.png
+
+
 Process
 1. We extracted the CSV data file from EPA.gov (https://www.epa.gov/outdoor-air-quality-data/air-data-daily-air-quality-tracker)
 2. We loaded the CSV file into Python with Jupyter Notebook to clean the data and narrow the columns to be evaluated.  
