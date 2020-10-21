@@ -6,10 +6,13 @@
       <script src = "https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.3/Chart.min.js"></script>
       <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
       <title>My Chart.js Chart</title>
+
+         <!-- Our CSS -->
+  <link rel="stylesheet" type="text/css" href="static/css/d3Style.css">
   </head>
   <body>
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
-      <a class="navbar-brand bg-info p-2 rounded" href="index.html">Map</a>
+      <a class="navbar-brand bg-info p-2 rounded" href="/map">Map</a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
@@ -19,8 +22,10 @@
           <li class="nav-item dropdown">
               <a class="nav-link dropdown-toggle active" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Graphs</a>
               <div class="dropdown-menu">
+                <a class="dropdown-item" href="/">Home Page</a>
                 <a class="dropdown-item" href="/graphs">Graphs</a>
-                <a class="dropdown-item" href="/mean">Data</a>
+                <a class="dropdown-item" href="/mean"> Mean Data</a>
+                <a class="dropdown-item" href="/ozone">Location Data</a>
               </div>
             </li>
         </ul>
@@ -37,7 +42,7 @@
     <br>
     <br>
 
-      <div class="container">
+    <div class="container bg-light" >
           <canvas id="myChart" width="1600" height="900"></canvas>
       </div>
 

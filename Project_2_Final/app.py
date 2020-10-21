@@ -104,7 +104,7 @@ class Pm(db.Model):
 #create route for homepage that displays the heat map
 @app.route("/")
 def home():
-    return render_template("indexSamples.html")
+    return render_template("index.html")
 
 @app.route("/mean")
 def mean():    
