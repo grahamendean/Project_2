@@ -61,9 +61,9 @@ function init() {
                 top:0
             } // closing L58
         }, //closing L55
-        // tooltip:{
-        //     enabled:true
-        // }, // closing L65 
+        tooltip:{
+            enabled:false
+        }, // closing L65 
         } //closing L42}
     
 
@@ -131,9 +131,9 @@ function refreshChart() {
               top:0
           } // closing L58
       }, //closing L55
-      // tooltip:{
-      //     enabled:true
-      // }, // closing L65 
+      tooltip:{
+          enabled:false
+      }, // closing L65 
       } //closing L42}
     }); // closing L18
   }
@@ -188,9 +188,9 @@ function refreshChart() {
               top:0
           } // closing L58
       }, //closing L55
-      // tooltip:{
-      //     enabled:true
-      // }, // closing L65 
+      tooltip:{
+          enabled:false
+      }, // closing L65 
       } //closing L42}
   
 
@@ -247,9 +247,9 @@ function refreshChart() {
               top:0
           } // closing L58
       }, //closing L55
-      // tooltip:{
-      //     enabled:true
-      // }, // closing L65 
+      tooltip:{
+          enabled:false
+      }, // closing L65 
       } //closing L42}
   
 
