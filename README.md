@@ -17,7 +17,7 @@ We are analyzing this information as an academic endeavor focused on the use of 
 In this scenario, our deliverable will be meaningful visual outputs integrating end-user interactive functionality.  
 
 Process Flow Chart 
-https://github.com/grahamendean/Project_2/blob/main/Screen%20Shot%202020-10-14%20at%2011.33.32%20AM.png
+
 
 
 Process
