@@ -1,5 +1,4 @@
 // Initializes the page with a default plot
-// function init() {
   d3.json("/mean").then(function(stateData, err) {
     if (err) throw err;
     console.log(stateData)
@@ -74,6 +73,9 @@
 
 
 function refreshChart() {
+    d3.select('.container').html('');
+    d3.select('.container').html('<canvas id="myChart" width="1600" height="900"></canvas>');
+    ctx = document.getElementById('myChart').getContext('2d');
   // Use D3 to select the dropdown menu
   var dropdownMenu = d3.select("#selDataset");
   // Assign the value of the dropdown menu option to a variable
@@ -237,23 +239,4 @@ function refreshChart() {
 
 }
 
-  }); // closing L3
-
-// } //closing L2
-
-// zingchart.render({
-//   id: 'myChart',
-//   data: myConfig
-// });
-
-
-
-// orders.forEach(o => {
-//   const opt = document.createElement('option');
-//   opt.value = stateData.state;
-//   opt.appendState(document.createTextNode(stateData.state));
-//   document.getElementById('operator').appendState(opt);
-// });
-
-
-// init();
+  }); 

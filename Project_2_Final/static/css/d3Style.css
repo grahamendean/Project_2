@@ -71,6 +71,10 @@ h2 {
   background-position-y: 25%;
 }
 
+.collapse {
+  padding-right: 50px;
+}
+
 /* Mobile Rules */
 @media screen and (max-width: 530px) {
   .stateText {
