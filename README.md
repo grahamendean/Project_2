@@ -1,5 +1,4 @@
-# Project_2
-Air Quality Data Project
+# Air Quality Data Project
 
 Air Quality Audit
 Welcome to our Air Quality github page. The purpose of this repository is to house 
@@ -17,6 +16,8 @@ We are analyzing this information as an academic endeavor focused on the use of 
 In this scenario, our deliverable will be meaningful visual outputs integrating end-user interactive functionality.  
 
 Process Flow Chart 
+
+
 ![File_Structure](File_Structure.png)
 
 
