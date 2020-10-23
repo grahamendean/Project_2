@@ -15,7 +15,7 @@ It may also be correlated to individual health outcomes in certain geographic re
 We are analyzing this information as an academic endeavor focused on the use of Python, JavaScript, D3, and Leaflet for analytics and modeling.
 In this scenario, our deliverable will be meaningful visual outputs integrating end-user interactive functionality.  
 
-Process Flow Chart 
+* Process Flow Chart 
 
 
 ![File_Structure](File_Structure.png)
@@ -30,19 +30,19 @@ Process
 6. The data were jsonified. 
 7. CSS, HTML, Javascript, D3, myChart.js, and Leaflet were used to create dashboard, charts, and map, and interactive functionality. 
 
-Our Main Webpage Image
+* Our Main Webpage Image
 
 
 ![Main_Page](Main_Page_Image.png)
 
 
-Map Page Image
+* Map Page Image
 
 
 ![Sample_Location](Sample_Locations.png)
 
 
-Graph Page Image
+* Graph Page Image
 
 
 ![Graph_Image](Graph_Image.png)
