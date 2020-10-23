@@ -1,0 +1,668 @@
+state,city,latitude,longitude,pollutant,average
+Alabama,Fairhope,30.497478,-87.880258,PM2.5 - Local Conditions,7.551401999999999
+Alabama,Ashland,33.284928,-85.803608,PM2.5 - Local Conditions,7.5504669999999985
+Alabama,Muscle Shoals,34.762619,-87.638097,PM2.5 - Local Conditions,7.213235000000001
+Alabama,Crossville,34.288567,-85.969858,PM2.5 - Local Conditions,7.55
+Alabama,Gadsden,33.991494,-85.99264699999998,PM2.5 - Local Conditions,8.410525999999999
+Alabama,Dothan,31.224783000000002,-85.390789,PM2.5 - Local Conditions,8.115651999999999
+Alabama,Birmingham,33.553056,-86.815,PM2.5 - Local Conditions,10.310833
+Alabama,,33.331111,-87.00361099999998,PM2.5 - Local Conditions,8.701667
+Alabama,Leeds,33.545278,-86.54916700000001,PM2.5 - Local Conditions,8.363934
+Alabama,Birmingham,33.499722,-86.92416700000001,PM2.5 - Local Conditions,8.705
+Alabama,Birmingham,33.521427,-86.844112,PM2.5 - Local Conditions,9.435593
+Alabama,Huntsville,34.687761,-86.586362,PM2.5 - Local Conditions,7.440179
+Alabama,Chickasaw,30.770181,-88.087761,PM2.5 - Local Conditions,8.302679
+Alabama,Montgomery,32.412811,-86.26339399999998,PM2.5 - Local Conditions,8.878378
+Alabama,Decatur,34.530717,-86.967536,PM2.5 - Local Conditions,7.627826
+Alabama,Phenix City,32.437028000000005,-84.99965300000001,PM2.5 - Local Conditions,9.322881
+Alabama,Tuscaloosa,33.189931,-87.484189,PM2.5 - Local Conditions,7.941964
+Alaska,Fairbanks,64.840672,-147.722461,PM2.5 - Local Conditions,7.427439
+Alaska,Fairbanks,64.840672,-147.722461,PM2.5 - Local Conditions,8.377059
+Alaska,Fairbanks,64.84568999999999,-147.72741299999998,PM2.5 - Local Conditions,9.796793
+Alaska,Fairbanks,64.84568999999999,-147.72741299999998,PM2.5 - Local Conditions,6.963158
+Alaska,,64.762973,-147.310297,PM2.5 - Local Conditions,10.804854
+Alaska,,64.762973,-147.310297,PM2.5 - Local Conditions,15.206646999999998
+Alaska,Fairbanks,64.84593000000001,-147.69326999999996,PM2.5 - Local Conditions,8.724806
+Alaska,Fairbanks,64.84593000000001,-147.69326999999996,PM2.5 - Local Conditions,8.274797
+Alaska,,61.534163,-149.031655,PM2.5 - Local Conditions,6.076667
+Arizona,Nazlini (Trading Post),35.880404,-109.43800300000001,PM2.5 - Local Conditions,1.881818
+Arizona,Scottsdale,33.488131,-111.855443,PM2.5 - Local Conditions,5.62459
+Arizona,Phoenix,33.503833,-112.095767,PM2.5 - Local Conditions,6.963025
+Arizona,Casa Grande,32.877583,-111.752222,PM2.5 - Local Conditions,6.892436999999998
+Arizona,Apache Junction,33.421194,-111.503222,PM2.5 - Local Conditions,4.235345
+Arizona,Stanfield,32.884761,-112.03705,PM2.5 - Local Conditions,11.372951
+Arizona,Nogales,31.337203999999996,-110.936718,PM2.5 - Local Conditions,8.377049000000001
+Arkansas,Stuttgart,34.518515,-91.55896,PM2.5 - Local Conditions,7.930508000000001
+Arkansas,Crossett,33.139471,-91.939208,PM2.5 - Local Conditions,8.195
+Arkansas,Bella Vista,36.459691,-94.205662,PM2.5 - Local Conditions,8.660839
+Arkansas,Bella Vista,36.435171999999994,-94.229248,PM2.5 - Local Conditions,7.772602999999998
+Arkansas,Jonesboro,35.837638,-90.679516,PM2.5 - Local Conditions,7.524489999999999
+Arkansas,Marion,35.197288,-90.193141,PM2.5 - Local Conditions,8.278151
+Arkansas,Hot Springs (Hot Springs National Park),34.469441,-93.000178,PM2.5 - Local Conditions,8.827273
+Arkansas,Newport,35.637283000000004,-91.188906,PM2.5 - Local Conditions,8.169231
+Arkansas,Mena,34.583699,-94.226234,PM2.5 - Local Conditions,8.674166999999999
+Arkansas,North Little Rock,34.756189,-92.281296,PM2.5 - Local Conditions,9.487989
+Arkansas,Little Rock,34.681343,-92.328697,PM2.5 - Local Conditions,10.339831
+Arkansas,El Dorado,33.220563,-92.672263,PM2.5 - Local Conditions,9.054167
+Arkansas,Springdale,36.1797,-94.116827,PM2.5 - Local Conditions,8.0075
+California,Chico,39.76168,-121.84047,PM2.5 - Local Conditions,6.164596
+California,Cortina Indian Rancheria,39.021221000000004,-122.281803,PM2.5 - Local Conditions,6.16
+California,Colusa,39.18919,-121.99887,PM2.5 - Local Conditions,7.022950999999999
+California,Concord,37.936013,-122.026154,PM2.5 - Local Conditions,6.133333
+California,Fresno,36.78538,-119.77321,PM2.5 - Local Conditions,11.186111
+California,,36.985119,-119.65833899999998,PM2.5 - Local Conditions,6.3108939999999984
+California,Clovis,36.819449,-119.71643300000001,PM2.5 - Local Conditions,10.177311
+California,Fresno,36.72639,-119.73299999999999,PM2.5 - Local Conditions,11.244737
+California,Eureka,40.77678,-124.17948999999999,PM2.5 - Local Conditions,6.78785
+California,Calexico,32.676179999999995,-115.48307,PM2.5 - Local Conditions,10.779939
+California,Brawley,32.97833,-115.53917,PM2.5 - Local Conditions,8.370085000000001
+California,El Centro,32.79222,-115.56306,PM2.5 - Local Conditions,7.938792999999999
+California,,37.360684,-118.33078300000001,PM2.5 - Local Conditions,4.60625
+California,,37.360684,-118.33078300000001,PM2.5 - Local Conditions,4.791785
+California,Keeler,36.487823,-117.871036,PM2.5 - Local Conditions,4.3442620000000005
+California,Bakersfield,35.385574,-119.015009,PM2.5 - Local Conditions,12.31157
+California,Bakersfield,35.356615000000005,-119.06261299999998,PM2.5 - Local Conditions,11.885303
+California,Bakersfield,35.324636,-118.99762700000001,PM2.5 - Local Conditions,12.903478
+California,Ridgecrest,35.64294299999999,-117.715066,PM2.5 - Local Conditions,4.102778
+California,Corcoran,36.102244,-119.56565,PM2.5 - Local Conditions,12.325
+California,Lakeport,39.01893,-122.91333,PM2.5 - Local Conditions,3.141667
+California,Azusa,34.136500000000005,-117.92391,PM2.5 - Local Conditions,8.703279
+California,Los Angeles,34.066590000000005,-118.22688000000001,PM2.5 - Local Conditions,10.867409
+California,Reseda,34.19925,-118.53276000000001,PM2.5 - Local Conditions,9.188983
+California,Compton,33.901389,-118.205,PM2.5 - Local Conditions,11.026073
+California,Pico Rivera,34.010290000000005,-118.0685,PM2.5 - Local Conditions,9.95082
+California,Pasadena,34.132600000000004,-118.1272,PM2.5 - Local Conditions,9.139474
+California,Pasadena,34.132600000000004,-118.1272,PM2.5 - Local Conditions,8.850442
+California,Long Beach,33.82376,-118.18921,PM2.5 - Local Conditions,9.018239
+California,Long Beach,33.792359999999995,-118.17533,PM2.5 - Local Conditions,9.239266
+California,Long Beach,33.859662,-118.20070700000001,PM2.5 - Local Conditions,11.013611000000001
+California,Lancaster,34.669739,-118.13051100000001,PM2.5 - Local Conditions,6.133889
+California,Madera,36.953256,-120.034203,PM2.5 - Local Conditions,8.863332999999997
+California,Merced,37.30832,-120.480456,PM2.5 - Local Conditions,9.553333
+California,Grass Valley,39.233477,-121.055608,PM2.5 - Local Conditions,4.221667
+California,Truckee,39.32783,-120.184592,PM2.5 - Local Conditions,5.324107
+California,Anaheim,33.83062,-117.93845,PM2.5 - Local Conditions,9.402305
+California,Anaheim,33.83062,-117.93845,PM2.5 - Local Conditions,9.325145
+California,Mission Viejo,33.63003,-117.67593000000001,PM2.5 - Local Conditions,7.139639999999999
+California,Auburn,38.93568,-121.09958999999999,PM2.5 - Local Conditions,7.1626059999999985
+California,Roseville,38.74643,-121.26498000000001,PM2.5 - Local Conditions,6.5627119999999985
+California,Quincy,39.939567,-120.944376,PM2.5 - Local Conditions,7.7271899999999984
+California,Portola,39.81336,-120.47069,PM2.5 - Local Conditions,12.162376
+California,,33.447866999999995,-117.088649,PM2.5 - Local Conditions,4.573451
+California,Joshua Tree National Monument,33.747236,-115.820124,PM2.5 - Local Conditions,5.182182
+California,Indio,33.71969,-116.1897,PM2.5 - Local Conditions,7.2196669999999985
+California,Banning,33.944713,-116.830074,PM2.5 - Local Conditions,7.305028
+California,Indio,33.70853,-116.21537,PM2.5 - Local Conditions,7.369491999999998
+California,Palm Springs,33.85275,-116.54101000000001,PM2.5 - Local Conditions,6.073109
+California,Rubidoux,33.99958,-117.41601000000001,PM2.5 - Local Conditions,11.193143
+California,Rubidoux,33.99958,-117.41601000000001,PM2.5 - Local Conditions,11.065616
+California,Mira Loma,33.99636,-117.4924,PM2.5 - Local Conditions,12.691292
+California,Mira Loma,33.99636,-117.4924,PM2.5 - Local Conditions,12.572958
+California,Arden-Arcade,38.613779,-121.36801399999999,PM2.5 - Local Conditions,8.398529
+California,Sacramento,38.56844,-121.49311000000002,PM2.5 - Local Conditions,7.652100999999999
+California,Sacramento,38.593322,-121.503795,PM2.5 - Local Conditions,8.385964999999999
+California,Ontario,34.030833,-117.61721999999999,PM2.5 - Local Conditions,12.66392
+California,Ontario,34.030833,-117.61721999999999,PM2.5 - Local Conditions,12.791501
+California,Victorville,34.510961,-117.32553999999999,PM2.5 - Local Conditions,7.030312
+California,Fontana,34.10002,-117.49201000000001,PM2.5 - Local Conditions,10.861403999999999
+California,Fontana,34.10002,-117.49201000000001,PM2.5 - Local Conditions,11.473913
+California,Big Bear City,34.26464,-116.86147,PM2.5 - Local Conditions,5.756522
+California,San Bernardino,34.106677999999995,-117.27406299999998,PM2.5 - Local Conditions,10.984694000000001
+California,San Bernardino,34.106677999999995,-117.27406299999998,PM2.5 - Local Conditions,10.474227
+California,Chula Vista,32.631242,-117.05908799999999,PM2.5 - Local Conditions,8.202586
+California,San Diego,32.845709,-117.12396399999999,PM2.5 - Local Conditions,6.983333
+California,San Diego,32.985442,-117.08218000000001,PM2.5 - Local Conditions,8.597142999999999
+California,El Cajon,32.789565,-116.944308,PM2.5 - Local Conditions,8.522089999999999
+California,Pala,33.362593,-117.09023,PM2.5 - Local Conditions,13.752975
+California,Nipomo,35.02083,-120.56388000000001,PM2.5 - Local Conditions,7.004432
+California,Arroyo Grande,35.04673,-120.58776999999999,PM2.5 - Local Conditions,6.077247
+California,Lompoc,34.63782,-120.4575,PM2.5 - Local Conditions,4.619774
+California,Goleta,34.44551,-119.8284,PM2.5 - Local Conditions,5.012465
+California,San Jose,37.348496999999995,-121.894898,PM2.5 - Local Conditions,7.876613000000001
+California,Redding,40.55013,-122.38091999999999,PM2.5 - Local Conditions,6.628302000000001
+California,Modesto,37.642165000000006,-120.994212,PM2.5 - Local Conditions,8.55
+California,Yuba City,39.138773,-121.618549,PM2.5 - Local Conditions,8.450142
+California,Visalia,36.332179,-119.291228,PM2.5 - Local Conditions,12.897345
+California,Woodland,38.66121,-121.73269,PM2.5 - Local Conditions,7.715094000000001
+Colorado,Littleton,39.604399,-105.019526,PM2.5 - Local Conditions,6.016102
+Colorado,Longmont,40.164576000000004,-105.10085600000001,PM2.5 - Local Conditions,6.8008549999999985
+Colorado,Boulder,40.021097,-105.263382,PM2.5 - Local Conditions,5.789167
+Colorado,,38.8764,-107.6023,PM2.5 - Local Conditions,3.725145
+Colorado,Denver,39.751184,-104.987625,PM2.5 - Local Conditions,6.545481
+Colorado,Denver,39.77949,-105.00518000000001,PM2.5 - Local Conditions,6.828814
+Colorado,Denver,39.73217,-105.0153,PM2.5 - Local Conditions,9.488525
+Colorado,Roxborough Park,39.534488,-105.07035800000001,PM2.5 - Local Conditions,5.0677970000000006
+Colorado,Battlement Mesa,39.43806,-108.02611,PM2.5 - Local Conditions,3.461096
+Colorado,,37.10258,-107.87021899999999,PM2.5 - Local Conditions,2.5
+Colorado,Pueblo,38.276099,-104.597613,PM2.5 - Local Conditions,4.721053
+Colorado,Rangely,40.086944,-108.761389,PM2.5 - Local Conditions,7.894647999999999
+Colorado,Platteville,40.209387,-104.82405,PM2.5 - Local Conditions,7.297521000000001
+Connecticut,Bridgeport,41.170833,-73.194722,PM2.5 - Local Conditions,6.026667
+Connecticut,Danbury,41.399167,-73.443056,PM2.5 - Local Conditions,6.0950000000000015
+Connecticut,Hartford,41.771444,-72.679923,PM2.5 - Local Conditions,6.244538
+Connecticut,East Hartford,41.784722,-72.63166700000001,PM2.5 - Local Conditions,5.030508
+Connecticut,Cornwall,41.821342,-73.297257,PM2.5 - Local Conditions,3.8008330000000004
+Connecticut,New Haven,41.3014,-72.90287099999998,PM2.5 - Local Conditions,6.259167
+Connecticut,Waterbury,41.550556,-73.043611,PM2.5 - Local Conditions,6.378947
+Connecticut,Groton,41.35362,-72.07882,PM2.5 - Local Conditions,5.011667
+Delaware,Dover,39.155,-75.518056,PM2.5 - Local Conditions,6.246667
+Delaware,,39.761111,-75.49194399999998,PM2.5 - Local Conditions,6.9554459999999985
+Delaware,,39.55130000000001,-75.732,PM2.5 - Local Conditions,6.501265999999998
+Delaware,Newark,39.691962,-75.761299,PM2.5 - Local Conditions,7.488118999999998
+Delaware,Wilmington,39.739444,-75.55805600000001,PM2.5 - Local Conditions,7.5845889999999985
+District Of Columbia,Washington,38.895571999999994,-76.958072,PM2.5 - Local Conditions,8.318413999999999
+District Of Columbia,Washington,38.895571999999994,-76.958072,PM2.5 - Local Conditions,8.165156
+District Of Columbia,Washington,38.921847,-77.013178,PM2.5 - Local Conditions,8.00084
+District Of Columbia,Washington,38.921847,-77.013178,PM2.5 - Local Conditions,7.9235289999999985
+District Of Columbia,Washington,38.89477,-76.95342600000001,PM2.5 - Local Conditions,8.87135
+District Of Columbia,Washington,38.89477,-76.95342600000001,PM2.5 - Local Conditions,8.748759999999999
+District Of Columbia,Washington,38.875161,-77.012816,PM2.5 - Local Conditions,7.95927
+District Of Columbia,Washington,38.875161,-77.012816,PM2.5 - Local Conditions,7.868538999999998
+Florida,Gainesville,29.706111,-82.387778,PM2.5 - Local Conditions,6.959574000000001
+Florida,Melbourne,28.053611,-80.62861099999998,PM2.5 - Local Conditions,5.304167
+Florida,Davie,26.053889,-80.25694399999998,PM2.5 - Local Conditions,5.8897439999999985
+Florida,Pompano Beach Highlands,26.292025,-80.09647,PM2.5 - Local Conditions,6.5038459999999985
+Florida,Coconut Creek,26.294167,-80.176389,PM2.5 - Local Conditions,5.603333
+Florida,Jacksonville,30.135796999999997,-81.63398099999998,PM2.5 - Local Conditions,6.6268910000000005
+Florida,Jacksonville,30.354722,-81.54777800000001,PM2.5 - Local Conditions,6.8033899999999985
+Florida,Ferry Pass,30.525367,-87.20354999999998,PM2.5 - Local Conditions,7.261017
+Florida,Tampa,27.955133,-82.469532,PM2.5 - Local Conditions,7.455488000000001
+Florida,Valrico,27.96565,-82.2304,PM2.5 - Local Conditions,7.159322
+Florida,Tallahassee,30.439721999999996,-84.346389,PM2.5 - Local Conditions,7.599167
+Florida,Palm Springs North,25.941944,-80.32638899999998,PM2.5 - Local Conditions,6.361739
+Florida,Homestead,25.471944,-80.482778,PM2.5 - Local Conditions,6.595725999999999
+Florida,Delray Beach,26.456944,-80.09277800000001,PM2.5 - Local Conditions,5.930357
+Florida,Clearwater,27.986283,-82.78215,PM2.5 - Local Conditions,6.288888999999998
+Florida,Sanford,28.746111,-81.31055599999998,PM2.5 - Local Conditions,5.683332999999998
+Georgia,Macon,32.777465,-83.640996,PM2.5 - Local Conditions,9.102542
+Georgia,Macon,32.805264,-83.54349300000001,PM2.5 - Local Conditions,7.3394960000000005
+Georgia,Garden City,32.110679,-81.161823,PM2.5 - Local Conditions,7.652662999999999
+Georgia,Athens (corp name Athens-Clarke County),33.918137,-83.344385,PM2.5 - Local Conditions,6.032143
+Georgia,Forest Park,33.610845,-84.39071700000001,PM2.5 - Local Conditions,8.694958
+Georgia,Kennesaw,34.015436,-84.607423,PM2.5 - Local Conditions,8.647934
+Georgia,,31.513097,-82.749971,PM2.5 - Local Conditions,7.1884299999999985
+Georgia,,33.6878,-84.29050000000002,PM2.5 - Local Conditions,8.283332999999999
+Georgia,Albany,31.5776,-84.0998,PM2.5 - Local Conditions,9.225287
+Georgia,Atlanta,33.802240999999995,-84.43561799999998,PM2.5 - Local Conditions,9.09
+Georgia,Atlanta,33.778400000000005,-84.3914,PM2.5 - Local Conditions,9.516529
+Georgia,Brunswick,31.169805,-81.495035,PM2.5 - Local Conditions,7.6354549999999985
+Georgia,Warner Robins,32.6056,-83.5978,PM2.5 - Local Conditions,7.854700999999999
+Georgia,Valdosta,30.8486,-83.2933,PM2.5 - Local Conditions,7.527193
+Georgia,Columbus,32.4842,-84.97890000000002,PM2.5 - Local Conditions,9.083051
+Georgia,Columbus,32.521272,-84.94463499999998,PM2.5 - Local Conditions,8.738983000000001
+Georgia,Columbus,32.429700000000004,-84.9316,PM2.5 - Local Conditions,8.621667
+Georgia,,34.9788,-85.3009,PM2.5 - Local Conditions,8.155237999999999
+Georgia,Sandersville,32.967359,-82.806871,PM2.5 - Local Conditions,8.168000000000001
+Hawaii,Hawaii Volcanoes National Park,19.4308,-155.2578,PM2.5 - Local Conditions,-1.006569
+Hawaii,Hilo,19.717562,-155.11052999999995,PM2.5 - Local Conditions,3.197989
+Hawaii,Hilo,19.717562,-155.11052999999995,PM2.5 - Local Conditions,3.144253
+Hawaii,Kealakekua,19.509778,-155.91341699999995,PM2.5 - Local Conditions,2.263611
+Hawaii,Kealakekua,19.509778,-155.91341699999995,PM2.5 - Local Conditions,2.237222
+Hawaii,Pahala,19.2039,-155.480183,PM2.5 - Local Conditions,2.693239
+Hawaii,Pahala,19.2039,-155.480183,PM2.5 - Local Conditions,2.6
+Hawaii,Hawaiian Ocean View,19.117561,-155.77813600000002,PM2.5 - Local Conditions,2.479592
+Hawaii,Hawaiian Ocean View,19.117561,-155.77813600000002,PM2.5 - Local Conditions,2.6034990000000002
+Hawaii,Mountain View,19.555444,-155.102028,PM2.5 - Local Conditions,1.661625
+Hawaii,Mountain View,19.555444,-155.102028,PM2.5 - Local Conditions,1.604482
+Hawaii,,21.323745000000002,-158.08861299999998,PM2.5 - Local Conditions,1.80086
+Hawaii,,21.949599,-159.36624,PM2.5 - Local Conditions,2.906471
+Hawaii,Kahului,20.869627,-156.493626,PM2.5 - Local Conditions,3.4133129999999996
+Idaho,,43.600699,-116.347853,PM2.5 - Local Conditions,5.261739
+Idaho,,47.316577,-116.571281,PM2.5 - Local Conditions,10.070809
+Idaho,,47.316577,-116.571281,PM2.5 - Local Conditions,10.019825
+Idaho,Nampa,43.58031,-116.562676,PM2.5 - Local Conditions,6.860185
+Idaho,Preston,42.082221999999994,-111.864167,PM2.5 - Local Conditions,5.7939479999999985
+Idaho,,42.68,-114.2525,PM2.5 - Local Conditions,3.927479
+Idaho,,45.181897,-113.890285,PM2.5 - Local Conditions,8.207825999999999
+Idaho,Pinehurst (Pine Creek),47.536389,-116.236667,PM2.5 - Local Conditions,9.655682
+Idaho,Pinehurst (Pine Creek),47.536389,-116.236667,PM2.5 - Local Conditions,9.605158
+Illinois,Champaign,40.123886,-88.24055299999998,PM2.5 - Local Conditions,7.542609
+Illinois,Bondville,40.05278,-88.37250999999998,PM2.5 - Local Conditions,7.6776860000000005
+Illinois,Alsip,41.670992,-87.732457,PM2.5 - Local Conditions,7.981132000000001
+Illinois,Chicago,41.687165,-87.539315,PM2.5 - Local Conditions,9.633673
+Illinois,Chicago,41.965485,-87.749928,PM2.5 - Local Conditions,9.1625
+Illinois,Chicago,41.912739,-87.722673,PM2.5 - Local Conditions,8.633929
+Illinois,Chicago,41.7514,-87.713488,PM2.5 - Local Conditions,8.259322000000001
+Illinois,McCook,41.80118,-87.832349,PM2.5 - Local Conditions,9.970536
+Illinois,Schiller Park,41.965193,-87.87626499999998,PM2.5 - Local Conditions,10.841228
+Illinois,Summit,41.782766,-87.80537700000001,PM2.5 - Local Conditions,9.303478
+Illinois,Northbrook,42.139996000000004,-87.799227,PM2.5 - Local Conditions,7.704274000000001
+Illinois,Cicero,41.864426,-87.748902,PM2.5 - Local Conditions,9.011864
+Illinois,Elgin,42.050403,-88.28001499999998,PM2.5 - Local Conditions,8.511503999999999
+Illinois,Aurora,41.784717,-88.329374,PM2.5 - Local Conditions,8.888235
+Illinois,Cary,42.221442,-88.242207,PM2.5 - Local Conditions,7.789830999999999
+Illinois,Granite City,38.700632,-90.144763,PM2.5 - Local Conditions,11.235714
+Illinois,Granite City,38.704534,-90.139675,PM2.5 - Local Conditions,10.452632000000001
+Illinois,Alton,38.903085,-90.143168,PM2.5 - Local Conditions,9.088182000000002
+Illinois,Wood River,38.860669,-90.105851,PM2.5 - Local Conditions,9.05625
+Illinois,East Saint Louis,38.612034,-90.160477,PM2.5 - Local Conditions,9.155357
+Indiana,Jeffersonville,38.277704,-85.740099,PM2.5 - Local Conditions,8.593333
+Indiana,,38.393822,-85.664118,PM2.5 - Local Conditions,7.405556
+Indiana,Jeffersonville,38.288191,-85.741337,PM2.5 - Local Conditions,9.066667
+Indiana,Muncie,40.199502,-85.387908,PM2.5 - Local Conditions,8.335
+Indiana,Jasper,38.391799,-86.92966799999998,PM2.5 - Local Conditions,8.430252000000001
+Indiana,,38.985477,-86.99041899999999,PM2.5 - Local Conditions,7.709244
+Indiana,Carmel,39.928804,-86.078775,PM2.5 - Local Conditions,10.156481
+Indiana,Middletown,40.009544,-85.52346999999999,PM2.5 - Local Conditions,7.679831999999998
+Indiana,East Chicago,41.636127,-87.440843,PM2.5 - Local Conditions,8.752542
+Indiana,Gary,41.606667,-87.304722,PM2.5 - Local Conditions,8.455085
+Indiana,Gary,41.573239,-87.40590499999998,PM2.5 - Local Conditions,9.350413
+Indiana,Gary,41.598505,-87.342991,PM2.5 - Local Conditions,9.213158
+Indiana,East Chicago,41.653446,-87.435435,PM2.5 - Local Conditions,11.947826
+Indiana,Hammond,41.594427,-87.495044,PM2.5 - Local Conditions,8.620339
+Indiana,Michigan City,41.707212,-86.891216,PM2.5 - Local Conditions,7.873728999999999
+Indiana,Indianapolis (Remainder),39.744993,-86.16646399999998,PM2.5 - Local Conditions,10.640171
+Indiana,Indianapolis (Remainder),39.810833,-86.11444399999998,PM2.5 - Local Conditions,9.357143
+Indiana,Indianapolis (Remainder),39.788903000000005,-86.21462799999998,PM2.5 - Local Conditions,10.334746
+Indiana,Indianapolis (Remainder),39.774979,-86.12201999999998,PM2.5 - Local Conditions,9.530973
+Indiana,Indianapolis (Remainder),39.758855,-86.115415,PM2.5 - Local Conditions,9.493277
+Indiana,Indianapolis (Remainder),39.787933,-86.13087999999998,PM2.5 - Local Conditions,10.289256
+Indiana,Bloomington,39.159383,-86.504762,PM2.5 - Local Conditions,7.561344999999998
+Indiana,South Bend,41.696659999999994,-86.214722,PM2.5 - Local Conditions,8.277586
+Indiana,Dale,38.167523,-86.98321399999998,PM2.5 - Local Conditions,7.917948999999999
+Indiana,,39.044992,-87.258969,PM2.5 - Local Conditions,8.124138
+Indiana,Evansville,37.974436,-87.53228899999998,PM2.5 - Local Conditions,8.694118
+Indiana,Evansville,38.013333,-87.57722199999998,PM2.5 - Local Conditions,8.405882
+Indiana,Terre Haute,39.485987,-87.40131199999998,PM2.5 - Local Conditions,9.280992
+Indiana,,41.169646,-85.62929199999998,PM2.5 - Local Conditions,7.990264999999999
+Iowa,Waterloo,42.501543,-92.316017,PM2.5 - Local Conditions,7.670833
+Iowa,Clinton,41.823283,-90.211982,PM2.5 - Local Conditions,8.971667
+Iowa,Clinton,41.874999,-90.177574,PM2.5 - Local Conditions,8.234710999999999
+Iowa,Iowa City,41.657232,-91.503478,PM2.5 - Local Conditions,7.611714
+Iowa,Keokuk,40.400959,-91.391012,PM2.5 - Local Conditions,8.281666999999999
+Iowa,Cedar Rapids,41.97677,-91.68766,PM2.5 - Local Conditions,7.9388429999999985
+Iowa,,40.969112,-95.044951,PM2.5 - Local Conditions,6.526446
+Iowa,Muscatine,41.400968,-91.067957,PM2.5 - Local Conditions,8.032861
+Iowa,Muscatine,41.419429,-91.070975,PM2.5 - Local Conditions,7.481033999999998
+Iowa,Muscatine,41.4069,-91.0616,PM2.5 - Local Conditions,8.161344999999999
+Iowa,Emmetsburg,43.123704,-94.69351800000001,PM2.5 - Local Conditions,6.426316
+Iowa,Des Moines,41.603159000000005,-93.643118,PM2.5 - Local Conditions,6.941739
+Iowa,Clive,41.603517,-93.7479,PM2.5 - Local Conditions,6.925210000000001
+Iowa,Council Bluffs,41.264171000000005,-95.896124,PM2.5 - Local Conditions,7.72973
+Iowa,Davenport,41.530011,-90.587611,PM2.5 - Local Conditions,7.8625349999999985
+Iowa,Davenport,41.512077000000005,-90.624044,PM2.5 - Local Conditions,8.503857
+Iowa,,40.695078,-92.00631800000001,PM2.5 - Local Conditions,7.175833
+Iowa,Sioux City,42.499844,-96.394755,PM2.5 - Local Conditions,7.450846999999999
+Kansas,Overland Park,38.974457,-94.68701300000001,PM2.5 - Local Conditions,7.392940999999999
+Kansas,,37.476890000000004,-97.366399,PM2.5 - Local Conditions,7.613636
+Kansas,,38.770081,-99.763424,PM2.5 - Local Conditions,5.300612
+Kentucky,Middlesborough (corporate name for Middlesboro),36.60843,-83.73693999999998,PM2.5 - Local Conditions,7.313115
+Kentucky,Ashland,38.459340000000005,-82.64041,PM2.5 - Local Conditions,6.82
+Kentucky,Highland Heights,39.021881,-84.47444999999998,PM2.5 - Local Conditions,7.553846000000001
+Kentucky,,38.23887,-82.9881,PM2.5 - Local Conditions,5.683471
+Kentucky,,36.91171,-87.323337,PM2.5 - Local Conditions,8.487736
+Kentucky,,37.780776,-87.075307,PM2.5 - Local Conditions,7.627118999999999
+Kentucky,Lexington-Fayette (corporate name for Lexington),38.06503,-84.49761,PM2.5 - Local Conditions,7.533913
+Kentucky,Elizabethtown,37.705612,-85.85262900000001,PM2.5 - Local Conditions,7.3141669999999985
+Kentucky,,37.8712,-87.46374999999998,PM2.5 - Local Conditions,7.615788999999999
+Kentucky,Louisville,38.22876,-85.65451999999998,PM2.5 - Local Conditions,8.137500000000001
+Kentucky,Louisville,38.1936,-85.7119,PM2.5 - Local Conditions,9.365289
+Kentucky,Paducah,37.05822,-88.57251,PM2.5 - Local Conditions,7.8303569999999985
+Kentucky,Hazard,37.28329,-83.20931999999998,PM2.5 - Local Conditions,6.588525
+Kentucky,Pikeville,37.48260000000001,-82.53532,PM2.5 - Local Conditions,6.145455
+Kentucky,Somerset,37.09798,-84.61152,PM2.5 - Local Conditions,7.0206610000000005
+Kentucky,Smiths Grove,37.04926,-86.21486999999998,PM2.5 - Local Conditions,7.5706419999999985
+Louisiana,Shreveport,32.471819,-93.795179,PM2.5 - Local Conditions,10.695798
+Louisiana,Vinton,30.227797999999996,-93.579965,PM2.5 - Local Conditions,6.790435
+Louisiana,Baton Rouge,30.461981,-91.179219,PM2.5 - Local Conditions,9.266856
+Louisiana,St. Gabriel,30.219101000000002,-91.062552,PM2.5 - Local Conditions,8.478689
+Louisiana,Kenner,30.041238,-90.272826,PM2.5 - Local Conditions,7.160656
+Louisiana,Marrero,29.900314,-90.109836,PM2.5 - Local Conditions,7.703305999999999
+Louisiana,Lafayette,30.22611,-92.042908,PM2.5 - Local Conditions,7.953718999999999
+Louisiana,New Orleans,29.996013,-90.11819,PM2.5 - Local Conditions,7.847933999999999
+Louisiana,Monroe,32.509959,-92.046196,PM2.5 - Local Conditions,7.25
+Louisiana,Alexandria,31.177824,-92.410746,PM2.5 - Local Conditions,7.5243699999999984
+Louisiana,Chalmette,29.943164000000003,-89.97625,PM2.5 - Local Conditions,7.783607000000001
+Louisiana,Hammond,30.503287,-90.377212,PM2.5 - Local Conditions,7.590178999999999
+Louisiana,Gray (Beattieville),29.679301000000002,-90.77973100000001,PM2.5 - Local Conditions,7.475833000000001
+Louisiana,,30.500642,-91.21355600000001,PM2.5 - Local Conditions,8.957429
+Maine,Lewiston,44.089406,-70.214219,PM2.5 - Local Conditions,5.0600000000000005
+Maine,Madawaska (census name for Madawaska Center),47.355332000000004,-68.321106,PM2.5 - Local Conditions,5.471667
+Maine,Presque Isle,46.682299,-68.016195,PM2.5 - Local Conditions,4.922414
+Maine,Portland,43.677994,-70.25617799999999,PM2.5 - Local Conditions,6.581034
+Maine,Portland,43.660246,-70.26896500000001,PM2.5 - Local Conditions,5.508929
+Maine,,44.37705,-68.2609,PM2.5 - Local Conditions,3.327928
+Maine,Augusta,44.312319,-69.78671700000001,PM2.5 - Local Conditions,5.120513
+Maine,Rumford (census name for Rumford Compact),44.551419,-70.546319,PM2.5 - Local Conditions,4.861111
+Maine,Bangor,44.79886,-68.76967499999999,PM2.5 - Local Conditions,4.215
+Maine,Bangor,44.817398,-68.772762,PM2.5 - Local Conditions,4.435593
+Maryland,Cockeysville,39.460478,-76.633543,PM2.5 - Local Conditions,8.234482999999999
+Maryland,Essex,39.310833,-76.47444399999998,PM2.5 - Local Conditions,8.271186
+Maryland,Beltsville,39.055277000000004,-76.878333,PM2.5 - Local Conditions,6.769421
+Maryland,Baltimore,39.297733,-76.604603,PM2.5 - Local Conditions,8.32
+Massachusetts,Pittsfield,42.452299,-73.239648,PM2.5 - Local Conditions,5.335088
+Massachusetts,Pittsfield,42.448009000000006,-73.254108,PM2.5 - Local Conditions,4.535714
+Massachusetts,Haverhill,42.770837,-71.10229,PM2.5 - Local Conditions,4.536207
+Massachusetts,Greenfield,42.605816,-72.596689,PM2.5 - Local Conditions,5.464407
+Massachusetts,Chicopee,42.19438,-72.555112,PM2.5 - Local Conditions,4.9672269999999985
+Massachusetts,Springfield,42.120229,-72.584503,PM2.5 - Local Conditions,5.266102
+Massachusetts,Brockton,42.065106,-71.012129,PM2.5 - Local Conditions,4.829231
+Massachusetts,Boston,42.348873,-71.097163,PM2.5 - Local Conditions,5.702632
+Massachusetts,Boston,42.3295,-71.0826,PM2.5 - Local Conditions,5.1522120000000005
+Massachusetts,Boston,42.325186,-71.056061,PM2.5 - Local Conditions,5.590625
+Massachusetts,Worcester,42.263955,-71.794322,PM2.5 - Local Conditions,5.084127
+Michigan,Holland,42.767786,-86.148577,PM2.5 - Local Conditions,7.042056
+Michigan,Bay City,43.571391,-83.890721,PM2.5 - Local Conditions,6.785
+Michigan,Flint,43.047224,-83.670159,PM2.5 - Local Conditions,6.828448
+Michigan,Lansing,42.761387,-84.56277899999998,PM2.5 - Local Conditions,7.122857000000001
+Michigan,Kalamazoo,42.278067,-85.54189000000001,PM2.5 - Local Conditions,7.415094
+Michigan,Grand Rapids,42.984173,-85.67133899999997,PM2.5 - Local Conditions,8.133621
+Michigan,New Haven,42.731394,-82.793463,PM2.5 - Local Conditions,7.3
+Michigan,Manistee,44.306999999999995,-86.242649,PM2.5 - Local Conditions,4.981633
+Michigan,Oak Park,42.463063,-83.183199,PM2.5 - Local Conditions,7.757759
+Michigan,Jenison,42.894451000000004,-85.852734,PM2.5 - Local Conditions,8.263793
+Michigan,Port Huron,42.953336,-82.45622900000001,PM2.5 - Local Conditions,7.6230769999999985
+Michigan,Ypsilanti,42.240565000000004,-83.59960199999998,PM2.5 - Local Conditions,8.268908
+Michigan,Allen Park,42.22862,-83.2082,PM2.5 - Local Conditions,8.455983
+Michigan,Detroit,42.302786,-83.10652999999998,PM2.5 - Local Conditions,10.778095
+Michigan,Detroit,42.43084,-83.00013799999998,PM2.5 - Local Conditions,7.60087
+Michigan,Dearborn,42.306674,-83.148754,PM2.5 - Local Conditions,9.908403
+Michigan,Livonia,42.421502000000004,-83.42504199999998,PM2.5 - Local Conditions,8.388136
+Minnesota,Blaine,45.13768,-93.207615,PM2.5 - Local Conditions,6.708621000000001
+Minnesota,Apple Valley,44.73846,-93.23725,PM2.5 - Local Conditions,7.463635999999998
+Minnesota,Minneapolis,44.95366,-93.25821,PM2.5 - Local Conditions,7.057142999999999
+Minnesota,St. Louis Park,44.94805,-93.34315,PM2.5 - Local Conditions,7.0301719999999985
+Minnesota,Rochester,43.996908000000005,-92.450366,PM2.5 - Local Conditions,6.9706899999999985
+Minnesota,St. Paul,44.950720000000004,-93.09827,PM2.5 - Local Conditions,7.8177970000000006
+Minnesota,St. Paul,44.95939,-93.03586999999999,PM2.5 - Local Conditions,7.106897
+Minnesota,Duluth,46.81826,-92.08936,PM2.5 - Local Conditions,4.1
+Minnesota,Duluth,46.743657,-92.165998,PM2.5 - Local Conditions,4.668966
+Minnesota,Bayport,45.02124,-92.77525,PM2.5 - Local Conditions,8.983333
+Mississippi,Jackson,32.329111,-90.182722,PM2.5 - Local Conditions,8.16087
+Missouri,Ladue,38.650329,-90.350313,PM2.5 - Local Conditions,9.118362
+Montana,,44.657014000000004,-111.08961799999999,PM2.5 - Local Conditions,0.915
+Montana,,46.8505,-111.98716399999999,PM2.5 - Local Conditions,3.288235
+Montana,,46.8505,-111.98716399999999,PM2.5 - Local Conditions,2.9560000000000004
+Nebraska,Omaha,41.247486,-95.97314200000001,PM2.5 - Local Conditions,6.7745099999999985
+Nebraska,Omaha,41.197847,-96.056686,PM2.5 - Local Conditions,6.885965
+Nebraska,Grand Island,40.942099,-98.36496700000001,PM2.5 - Local Conditions,5.0649479999999985
+Nebraska,Lincoln,40.812591,-96.683314,PM2.5 - Local Conditions,6.4836209999999985
+Nebraska,Scottsbluff,41.876853000000004,-103.656561,PM2.5 - Local Conditions,4.8353980000000005
+Nebraska,Blair,41.551211,-96.146175,PM2.5 - Local Conditions,6.512931
+Nevada,Sunrise Manor,36.141875,-115.07874199999999,PM2.5 - Local Conditions,6.606957
+Nevada,Las Vegas,36.163962,-115.11393000000001,PM2.5 - Local Conditions,7.133913000000001
+Nevada,Gardnerville Ranchos,38.897557,-119.73250700000001,PM2.5 - Local Conditions,3.841011
+Nevada,Reno,39.525083,-119.807717,PM2.5 - Local Conditions,4.7686959999999985
+Nevada,Reno,39.399837,-119.73960600000001,PM2.5 - Local Conditions,4.341111
+Nevada,Sparks,39.540917,-119.746761,PM2.5 - Local Conditions,6.034722
+Nevada,Sparks,39.621434,-119.71876999999999,PM2.5 - Local Conditions,5.154875
+Nevada,Carson City,39.1447,-119.7661,PM2.5 - Local Conditions,4.437151
+New Hampshire,Laconia,43.566122,-71.496335,PM2.5 - Local Conditions,3.24
+New Hampshire,Keene,42.930521,-72.27233199999998,PM2.5 - Local Conditions,6.191667
+New Hampshire,Peterborough (Peterboro),42.86183,-71.878626,PM2.5 - Local Conditions,3.33578
+New Hampshire,Portsmouth,43.075371000000004,-70.74801699999998,PM2.5 - Local Conditions,4.344444
+New Hampshire,Londonderry,42.862531,-71.38014,PM2.5 - Local Conditions,4.325234
+New Jersey,Galloway (Township of),39.464872,-74.448736,PM2.5 - Local Conditions,6.02807
+New Jersey,Atlantic City,39.36326,-74.431,PM2.5 - Local Conditions,6.537391
+New Jersey,Fort Lee,40.852256,-73.973314,PM2.5 - Local Conditions,7.137288000000001
+New Jersey,Camden,39.934559,-75.125219,PM2.5 - Local Conditions,9.057522
+New Jersey,Pennsauken (Township of),39.989036,-75.05000799999998,PM2.5 - Local Conditions,6.746154
+New Jersey,Newark,40.720989,-74.192892,PM2.5 - Local Conditions,7.854700999999999
+New Jersey,East Greenwich (Township of),39.800339,-75.212119,PM2.5 - Local Conditions,7.1389830000000005
+New Jersey,Union City,40.770908,-74.03621799999998,PM2.5 - Local Conditions,7.866071000000001
+New Jersey,Jersey City,40.725413,-74.05229299999998,PM2.5 - Local Conditions,7.667999999999999
+New Jersey,Trenton,40.222411,-74.76316700000001,PM2.5 - Local Conditions,7.609585000000001
+New Jersey,East Brunswick (Township of),40.462182,-74.429439,PM2.5 - Local Conditions,6.76875
+New Jersey,Chester,40.787628000000005,-74.676301,PM2.5 - Local Conditions,5.553097
+New Jersey,Toms River,39.994908,-74.170447,PM2.5 - Local Conditions,6.25942
+New Jersey,Paterson,40.918381,-74.168092,PM2.5 - Local Conditions,7.673450999999999
+New Jersey,Elizabeth,40.64144,-74.208365,PM2.5 - Local Conditions,8.760504
+New Jersey,Rahway,40.603943,-74.276174,PM2.5 - Local Conditions,8.351852000000001
+New Jersey,Knowlton (Township of),40.92458,-75.067815,PM2.5 - Local Conditions,6.8819279999999985
+New Mexico,Albuquerque,35.1343,-106.5852,PM2.5 - Local Conditions,6.000277
+New Mexico,Albuquerque,35.1443,-106.60468,PM2.5 - Local Conditions,6.8736989999999984
+New Mexico,South Valley,35.01708,-106.65739,PM2.5 - Local Conditions,7.733333
+New Mexico,Albuquerque,35.1852,-106.50815,PM2.5 - Local Conditions,4.2218230000000005
+New Mexico,North Valley,35.19324,-106.61381499999999,PM2.5 - Local Conditions,6.656198
+New Mexico,Anthony,32.003712,-106.59971499999999,PM2.5 - Local Conditions,7.157265
+New Mexico,,31.787885,-106.683324,PM2.5 - Local Conditions,6.366667
+New Mexico,,35.61975,-106.07968000000001,PM2.5 - Local Conditions,2.874294
+New Mexico,Taos,36.383359000000006,-105.5839,PM2.5 - Local Conditions,4.9519769999999985
+New York,Albany,42.64225,-73.75464000000001,PM2.5 - Local Conditions,5.915
+New York,Albany,42.68075,-73.75733000000001,PM2.5 - Local Conditions,5.098305
+New York,New York,40.816,-73.902,PM2.5 - Local Conditions,7.370832999999998
+New York,New York,40.8679,-73.87809,PM2.5 - Local Conditions,7.01157
+New York,Dunkirk,42.49963,-79.31881,PM2.5 - Local Conditions,5.929564999999998
+New York,Amherst,42.99328,-78.77153,PM2.5 - Local Conditions,6.3883329999999985
+New York,Buffalo,42.876907,-78.80952599999998,PM2.5 - Local Conditions,7.031304
+New York,Cheektowaga,42.921107,-78.76582499999998,PM2.5 - Local Conditions,7.053153
+New York,,44.39308,-73.8589,PM2.5 - Local Conditions,2.846
+New York,New York,40.71961,-73.94771,PM2.5 - Local Conditions,7.5923729999999985
+New York,Rochester,43.145013,-77.55727999999998,PM2.5 - Local Conditions,6.5287039999999985
+New York,Rochester,43.14618,-77.54817,PM2.5 - Local Conditions,6.517699
+New York,New York,40.7997,-73.93432,PM2.5 - Local Conditions,7.170833
+New York,New York,40.73,-73.98400000000002,PM2.5 - Local Conditions,8.601562999999999
+New York,New York,40.71436,-73.99517999999998,PM2.5 - Local Conditions,8.613223
+New York,East Syracuse,43.05235,-76.05921,PM2.5 - Local Conditions,5.299167
+New York,Newburgh,41.49916,-74.00885,PM2.5 - Local Conditions,5.826270999999998
+New York,New York,40.73614,-73.82153000000001,PM2.5 - Local Conditions,6.709942999999999
+New York,New York,40.739264,-73.81769399999999,PM2.5 - Local Conditions,7.765811999999999
+New York,New York,40.633070000000004,-74.13718999999998,PM2.5 - Local Conditions,7.566378999999999
+New York,,42.09142,-77.20978000000001,PM2.5 - Local Conditions,4.440367
+New York,East Farmingdale,40.745290000000004,-73.41919,PM2.5 - Local Conditions,6.408036
+North Carolina,Asheville,35.6062,-82.5844,PM2.5 - Local Conditions,5.8928569999999985
+North Carolina,Hickory,35.72888899999999,-81.36555600000001,PM2.5 - Local Conditions,5.717391
+North Carolina,Fayetteville,35.041416,-78.95311199999998,PM2.5 - Local Conditions,7.753703999999999
+North Carolina,Lexington,35.8145,-80.26270000000002,PM2.5 - Local Conditions,7.792592999999999
+North Carolina,Durham,36.032955,-78.904037,PM2.5 - Local Conditions,7.494594999999999
+North Carolina,Winston-Salem,36.110693,-80.226438,PM2.5 - Local Conditions,7.489814999999999
+North Carolina,Winston-Salem,36.025999999999996,-80.342,PM2.5 - Local Conditions,6.8730769999999985
+North Carolina,,35.466767,-83.277928,PM2.5 - Local Conditions,6.624242
+North Carolina,Charlotte,35.2401,-80.78568299999998,PM2.5 - Local Conditions,8.222222
+North Carolina,Charlotte,35.213171,-80.874084,PM2.5 - Local Conditions,8.6
+North Carolina,,35.641276,-77.360126,PM2.5 - Local Conditions,6.239623
+North Carolina,Raleigh,35.856111,-78.574167,PM2.5 - Local Conditions,7.84537
+North Dakota,Bismarck,46.825425,-100.76821,PM2.5 - Local Conditions,5.260331
+Ohio,Lima,40.770944,-84.0539,PM2.5 - Local Conditions,8.039344
+Ohio,,39.442165,-81.908827,PM2.5 - Local Conditions,6.240984
+Ohio,Shadyside,39.9679,-80.74640000000002,PM2.5 - Local Conditions,8.658064999999999
+Ohio,Middletown,39.49072,-84.36373999999998,PM2.5 - Local Conditions,9.042623
+Ohio,Fairfield,39.338390000000004,-84.56660000000002,PM2.5 - Local Conditions,8.536066
+Ohio,Middletown,39.479822,-84.409617,PM2.5 - Local Conditions,9.137705
+Ohio,Middletown,39.472436,-84.39495199999998,PM2.5 - Local Conditions,11.73
+Ohio,Middletown,39.478686,-84.39711199999998,PM2.5 - Local Conditions,10.688525
+Ohio,Springfield,39.92882,-83.80949,PM2.5 - Local Conditions,7.691667
+Ohio,Cleveland,41.55523,-81.57525600000001,PM2.5 - Local Conditions,7.060331
+Ohio,Cleveland,41.477011,-81.682383,PM2.5 - Local Conditions,8.973333
+Ohio,Cleveland,41.471782,-81.65679200000001,PM2.5 - Local Conditions,9.22314
+Ohio,Cleveland,41.492117,-81.678449,PM2.5 - Local Conditions,8.547500000000001
+Ohio,Newburgh Heights,41.446624,-81.662356,PM2.5 - Local Conditions,10.804202
+Ohio,Warrensville Heights,41.44013,-81.494833,PM2.5 - Local Conditions,7.470085000000001
+Ohio,Brook Park,41.39629,-81.81866699999998,PM2.5 - Local Conditions,7.389167
+Ohio,Columbus,40.002707,-82.994424,PM2.5 - Local Conditions,8.869912
+Ohio,Columbus,40.11107,-83.065415,PM2.5 - Local Conditions,9.465812
+Ohio,Columbus,39.928531,-82.98010500000001,PM2.5 - Local Conditions,8.365625
+Ohio,Columbus,40.08770000000001,-82.959773,PM2.5 - Local Conditions,8.777118999999999
+Ohio,Cincinnati,39.19433,-84.478974,PM2.5 - Local Conditions,8.906666999999997
+Ohio,Cincinnati,39.12886,-84.50403999999997,PM2.5 - Local Conditions,7.9677690000000005
+Ohio,Cincinnati,39.10492,-84.55117,PM2.5 - Local Conditions,8.536066
+Ohio,,40.332933000000004,-80.93340099999998,PM2.5 - Local Conditions,7.5754389999999985
+Ohio,Steubenville,40.366440000000004,-80.61558000000001,PM2.5 - Local Conditions,9.039474
+Ohio,Painesville,41.726811,-81.24215600000001,PM2.5 - Local Conditions,6.518332999999998
+Ohio,Ironton,38.508075,-82.65924100000001,PM2.5 - Local Conditions,6.764348
+Ohio,Sheffield,41.463071,-82.114261,PM2.5 - Local Conditions,7.457522
+Ohio,Toledo,41.644067,-83.54616,PM2.5 - Local Conditions,8.136667
+Ohio,Toledo,41.62057,-83.64226,PM2.5 - Local Conditions,7.72973
+Ohio,Toledo,41.679867,-83.47850000000003,PM2.5 - Local Conditions,8.838792999999997
+Ohio,Youngstown,41.111111,-80.64527799999998,PM2.5 - Local Conditions,7.483333
+Ohio,Youngstown,41.09596,-80.65847,PM2.5 - Local Conditions,7.529090999999998
+Ohio,,41.0604,-81.9239,PM2.5 - Local Conditions,7.300917
+Ohio,Dayton,39.755969,-84.198674,PM2.5 - Local Conditions,8.305171999999999
+Ohio,Ravenna,41.1644,-81.2352,PM2.5 - Local Conditions,7.515238
+Ohio,New Paris,39.83562,-84.720524,PM2.5 - Local Conditions,7.376271000000001
+Ohio,Portsmouth,38.754599,-82.91700999999998,PM2.5 - Local Conditions,6.753571000000001
+Ohio,Canton,40.786804,-81.394153,PM2.5 - Local Conditions,9.325833
+Ohio,Canton,40.800717,-81.373,PM2.5 - Local Conditions,8.165000000000001
+Ohio,Akron,41.063526,-81.46895599999998,PM2.5 - Local Conditions,8.241322
+Ohio,Akron,41.087862,-81.54153199999998,PM2.5 - Local Conditions,8.090833
+Ohio,Warren,41.23172,-80.80116,PM2.5 - Local Conditions,7.603389999999999
+Oklahoma,,35.186278,-94.78664300000001,PM2.5 - Local Conditions,7.251351
+Oklahoma,Oklahoma City,35.47291999999999,-97.52709,PM2.5 - Local Conditions,7.167742
+Oklahoma,Oklahoma City,35.614131,-97.475083,PM2.5 - Local Conditions,6.8338839999999985
+Oklahoma,Picher,36.985702,-94.83931,PM2.5 - Local Conditions,8.346371000000001
+Oklahoma,McAlester,34.885608000000005,-95.78441,PM2.5 - Local Conditions,6.781667
+Oklahoma,Roland,35.40814,-94.524413,PM2.5 - Local Conditions,8.124792999999999
+Oklahoma,Tulsa,36.204902000000004,-95.976537,PM2.5 - Local Conditions,7.039167
+Oregon,Prineville,44.299787,-120.844773,PM2.5 - Local Conditions,7.631896999999999
+Oregon,Burns,43.58925,-119.04871999999999,PM2.5 - Local Conditions,10.152436
+Oregon,Medford,42.33155,-122.88026599999999,PM2.5 - Local Conditions,8.743697000000001
+Oregon,Grants Pass,42.434139,-123.34846599999999,PM2.5 - Local Conditions,9.546667
+Oregon,Altamont,42.190296000000004,-121.731369,PM2.5 - Local Conditions,10.442936
+Oregon,Lakeview,42.189215000000004,-120.35396899999999,PM2.5 - Local Conditions,6.632231
+Oregon,Eugene,44.067224,-123.141352,PM2.5 - Local Conditions,7.953718999999999
+Oregon,Eugene,44.026312,-123.08373700000001,PM2.5 - Local Conditions,7.241667
+Oregon,Oakridge,43.744352,-122.48048700000001,PM2.5 - Local Conditions,9.198165
+Oregon,Cottage Grove,43.799501,-123.05348700000002,PM2.5 - Local Conditions,7.338332999999999
+Oregon,Portland,45.496641,-122.602877,PM2.5 - Local Conditions,6.486777
+Oregon,Hillsboro,45.528501,-122.972398,PM2.5 - Local Conditions,6.689915999999998
+Oregon,Tualatin,45.393497,-122.74789399999999,PM2.5 - Local Conditions,6.851667
+Pennsylvania,Avalon,40.499767,-80.071337,PM2.5 - Local Conditions,8.65974
+Pennsylvania,Pittsburgh,40.46542,-79.960757,PM2.5 - Local Conditions,8.859943
+Pennsylvania,Liberty,40.323768,-79.868062,PM2.5 - Local Conditions,12.162185000000001
+Pennsylvania,McDonald,40.375644,-80.16994299999998,PM2.5 - Local Conditions,7.671303999999999
+Pennsylvania,McCandless Township,40.606624,-80.02166899999999,PM2.5 - Local Conditions,6.813793
+Pennsylvania,Harrison Township,40.617488,-79.72766399999998,PM2.5 - Local Conditions,8.633913
+Pennsylvania,North Braddock,40.402328000000004,-79.860973,PM2.5 - Local Conditions,9.875
+Pennsylvania,Wilkinsburg,40.43743,-79.86357199999998,PM2.5 - Local Conditions,10.818129
+Pennsylvania,Clairton,40.294341,-79.88533100000001,PM2.5 - Local Conditions,7.891379
+Pennsylvania,Beaver Falls,40.747796,-80.31644200000001,PM2.5 - Local Conditions,9.053254
+Pennsylvania,,40.38335,-75.96860000000002,PM2.5 - Local Conditions,8.284013
+Pennsylvania,,39.834461,-75.768242,PM2.5 - Local Conditions,8.121818
+Pennsylvania,Carlisle,40.246528000000005,-77.18675,PM2.5 - Local Conditions,8.172626
+Pennsylvania,,40.246992,-76.846988,PM2.5 - Local Conditions,8.63815
+Pennsylvania,Lancaster,40.046667,-76.283333,PM2.5 - Local Conditions,8.794827999999999
+Pennsylvania,,40.043833,-76.11240000000002,PM2.5 - Local Conditions,9.663158000000001
+Pennsylvania,,40.337328,-76.38344699999998,PM2.5 - Local Conditions,8.484071
+Pennsylvania,Freemansburg,40.628056,-75.341111,PM2.5 - Local Conditions,7.8390770000000005
+Pennsylvania,Philadelphia,39.991389,-75.080833,PM2.5 - Local Conditions,7.831776
+Pennsylvania,Philadelphia,40.054171000000004,-74.98516599999998,PM2.5 - Local Conditions,8.678616
+Pennsylvania,Philadelphia,39.988842,-75.207205,PM2.5 - Local Conditions,8.315634
+Pennsylvania,Charleroi,40.146667,-79.902222,PM2.5 - Local Conditions,8.474336
+Rhode Island,Pawtucket,41.874668,-71.379971,PM2.5 - Local Conditions,6.142735
+Rhode Island,Providence,41.829495,-71.417457,PM2.5 - Local Conditions,8.308523
+Rhode Island,East Providence,41.841039,-71.36097,PM2.5 - Local Conditions,4.8727269999999985
+Rhode Island,,41.49511,-71.423705,PM2.5 - Local Conditions,3.922701
+South Carolina,North Charleston,32.980253999999995,-80.06501,PM2.5 - Local Conditions,7.069303999999999
+South Carolina,Charleston,32.790984,-79.958694,PM2.5 - Local Conditions,6.93697
+South Carolina,,34.615367,-80.198787,PM2.5 - Local Conditions,7.1216979999999985
+South Carolina,,33.739963,-81.853635,PM2.5 - Local Conditions,7.673214
+South Carolina,Florence,34.214262999999995,-79.767347,PM2.5 - Local Conditions,7.7144070000000005
+South Carolina,Greenville,34.843895,-82.414585,PM2.5 - Local Conditions,8.008384999999999
+South Carolina,Simpsonville,34.751847999999995,-82.25670099999998,PM2.5 - Local Conditions,7.327777999999999
+South Carolina,Seven Oaks,34.051017,-81.15495,PM2.5 - Local Conditions,8.174336
+South Carolina,Dentsville (Dents),34.093959000000005,-80.962304,PM2.5 - Local Conditions,7.583495
+South Carolina,Spartanburg,34.955566,-81.924797,PM2.5 - Local Conditions,7.633871000000001
+South Carolina,Rock Hill,34.9127,-80.8745,PM2.5 - Local Conditions,7.838610999999998
+South Dakota,Aberdeen,45.46250000000001,-98.486111,PM2.5 - Local Conditions,5.761017
+South Dakota,Sioux Falls,43.54792,-96.700769,PM2.5 - Local Conditions,5.9
+South Dakota,Rapid City,44.078352,-103.22824,PM2.5 - Local Conditions,4.996721
+Tennessee,Nashville,36.176382000000004,-86.7389,PM2.5 - Local Conditions,7.5072220000000005
+Tennessee,Nashville-Davidson (Remainder),36.1424,-86.7341,PM2.5 - Local Conditions,8.495628
+Tennessee,East Ridge,34.99438,-85.24293,PM2.5 - Local Conditions,7.984298
+Tennessee,Chattanooga,35.050918,-85.293019,PM2.5 - Local Conditions,7.657850999999999
+Tennessee,Knoxville,35.944601,-84.03598000000001,PM2.5 - Local Conditions,7.636363999999999
+Tennessee,Knoxville,35.980675,-83.92577299999998,PM2.5 - Local Conditions,7.488136
+Tennessee,Knoxville,35.978074,-83.950666,PM2.5 - Local Conditions,8.175424000000001
+Tennessee,Knoxville,36.019186,-83.87380999999998,PM2.5 - Local Conditions,7.343332999999999
+Tennessee,Memphis,35.151194,-90.04155899999998,PM2.5 - Local Conditions,8.450413000000001
+Tennessee,Memphis,35.151699,-89.85024899999998,PM2.5 - Local Conditions,7.5
+Tennessee,Memphis,35.16126,-89.87065,PM2.5 - Local Conditions,8.012500000000001
+Tennessee,Hendersonville,36.29756,-86.653137,PM2.5 - Local Conditions,7.380179999999998
+Texas,Temple,31.122419,-97.43105200000001,PM2.5 - Local Conditions,8.392096
+Texas,San Antonio,29.51509,-98.620166,PM2.5 - Local Conditions,8.264516
+Texas,,29.30265,-103.17781,PM2.5 - Local Conditions,5.642816000000001
+Texas,South Padre Island,26.0711,-97.1577,PM2.5 - Local Conditions,8.857332999999997
+Texas,Dallas,32.820060999999995,-96.860117,PM2.5 - Local Conditions,8.459458999999999
+Texas,Denton,33.219069,-97.196284,PM2.5 - Local Conditions,7.3631579999999985
+Texas,Odessa,31.870259,-102.334745,PM2.5 - Local Conditions,7.6375709999999986
+Texas,El Paso,31.768286,-106.50124299999999,PM2.5 - Local Conditions,6.442857
+Texas,El Paso,31.765685,-106.45522700000001,PM2.5 - Local Conditions,7.675000000000002
+Texas,Galveston,29.254474,-94.861289,PM2.5 - Local Conditions,6.64375
+Texas,Houston,29.767997,-95.220582,PM2.5 - Local Conditions,9.914972
+Texas,Houston,29.733726,-95.257593,PM2.5 - Local Conditions,10.647443
+Texas,Houston,29.81453,-95.38769,PM2.5 - Local Conditions,10.309009
+Texas,,32.669001,-94.167468,PM2.5 - Local Conditions,8.221428999999999
+Texas,Edinburg,26.288621999999997,-98.152066,PM2.5 - Local Conditions,10.331373
+Texas,Corpus Christi,27.426981,-97.298692,PM2.5 - Local Conditions,8.331337999999999
+Texas,Lubbock,33.58553,-101.78698,PM2.5 - Local Conditions,6.404545
+Texas,Eagle Pass,28.704607,-100.45115600000001,PM2.5 - Local Conditions,7.3852069999999985
+Texas,West Orange,30.194166999999997,-93.866944,PM2.5 - Local Conditions,8.242535
+Texas,Fort Worth,32.80581,-97.35652900000001,PM2.5 - Local Conditions,7.883332999999999
+Texas,Fort Worth,32.759153999999995,-97.342332,PM2.5 - Local Conditions,8.276
+Texas,Fort Worth,32.664753000000005,-97.337917,PM2.5 - Local Conditions,8.058461999999999
+Texas,Laredo,27.599444000000002,-99.533333,PM2.5 - Local Conditions,10.694986
+Utah,Brigham City,41.492707,-112.01886299999998,PM2.5 - Local Conditions,4.87381
+Utah,Smithfield,41.842649,-111.852199,PM2.5 - Local Conditions,7.580277000000001
+Utah,Bountiful,40.902967,-111.88446699999999,PM2.5 - Local Conditions,6.093284
+Utah,Enoch,37.74743,-113.055525,PM2.5 - Local Conditions,4.3317809999999985
+Utah,Magna,40.712146000000004,-112.111275,PM2.5 - Local Conditions,5.9263330000000005
+Utah,Salt Lake City,40.736389,-111.872222,PM2.5 - Local Conditions,6.421118
+Utah,Salt Lake City,40.78422,-111.931,PM2.5 - Local Conditions,6.837333
+Utah,Salt Lake City,40.777145000000004,-111.945849,PM2.5 - Local Conditions,7.883838000000001
+Utah,Murray,40.662878000000006,-111.90118799999999,PM2.5 - Local Conditions,9.003561999999997
+Utah,Erda,40.600532,-112.35341399999999,PM2.5 - Local Conditions,5.3523809999999985
+Utah,,39.63551,-109.43128,PM2.5 - Local Conditions,0.603333
+Utah,Lindon,40.341389,-111.71361100000001,PM2.5 - Local Conditions,6.013565
+Utah,Spanish Fork,40.136336,-111.66050200000001,PM2.5 - Local Conditions,5.368647
+Utah,Ogden,41.206321,-111.975524,PM2.5 - Local Conditions,5.684328
+Utah,Harrisville,41.303614,-111.987871,PM2.5 - Local Conditions,6.8952
+Vermont,Underhill (Town of),44.52839,-72.86883999999998,PM2.5 - Local Conditions,3.436522
+Vermont,Rutland,43.608056,-72.982778,PM2.5 - Local Conditions,6.019355
+Virginia,,38.076570000000004,-78.50397,PM2.5 - Local Conditions,6.393103
+Virginia,Arlington,38.8577,-77.05922,PM2.5 - Local Conditions,7.9803419999999985
+Virginia,,37.34438,-77.25925,PM2.5 - Local Conditions,6.647414
+Virginia,,37.35748,-77.59355,PM2.5 - Local Conditions,6.724786
+Virginia,Groveton,38.77335,-77.10468,PM2.5 - Local Conditions,7.208659
+Virginia,,39.28102,-78.08157,PM2.5 - Local Conditions,7.617355
+Virginia,East Highland Park,37.55652,-77.40026999999998,PM2.5 - Local Conditions,6.744553999999999
+Virginia,,37.67132,-77.5664,PM2.5 - Local Conditions,6.831624000000001
+Virginia,,39.02473,-77.48925,PM2.5 - Local Conditions,7.218332999999999
+Virginia,Vinton,37.28342,-79.88452,PM2.5 - Local Conditions,6.3252099999999984
+Virginia,,38.47753,-78.81952,PM2.5 - Local Conditions,7.061983000000001
+Virginia,Bristol,36.608,-82.1641,PM2.5 - Local Conditions,6.4871789999999985
+Virginia,Hampton,37.103733,-76.387017,PM2.5 - Local Conditions,6.252101000000001
+Virginia,Lynchburg,37.332706,-79.21501099999998,PM2.5 - Local Conditions,6.307407
+Virginia,Norfolk,36.85555,-76.30135,PM2.5 - Local Conditions,7.063025
+Virginia,Richmond,37.59088,-77.46925,PM2.5 - Local Conditions,7.828448
+Virginia,Salem,37.297883,-80.081017,PM2.5 - Local Conditions,6.6703389999999985
+Virginia,Virginia Beach,36.841883,-76.18123299999998,PM2.5 - Local Conditions,6.788696000000001
+Washington,Seattle,47.568236,-122.308628,PM2.5 - Local Conditions,5.937624
+Washington,Tacoma,47.1864,-122.4517,PM2.5 - Local Conditions,8.587888999999999
+Washington,Yakima,46.598056,-120.49916699999999,PM2.5 - Local Conditions,8.89115
+West Virginia,Martinsburg,39.448105,-77.96384499999998,PM2.5 - Local Conditions,8.833912999999997
+West Virginia,Follansbee,40.341023,-80.59663499999998,PM2.5 - Local Conditions,9.486441000000001
+West Virginia,Weirton,40.394651,-80.611813,PM2.5 - Local Conditions,9.599145
+West Virginia,Huntington,38.410242,-82.432436,PM2.5 - Local Conditions,7.021052999999998
+West Virginia,Weirton,40.427372,-80.59231799999998,PM2.5 - Local Conditions,8.095238
+West Virginia,Clarksburg,39.278117,-80.34224999999998,PM2.5 - Local Conditions,7.27027
+West Virginia,Charleston,38.346258,-81.621161,PM2.5 - Local Conditions,6.986555
+West Virginia,South Charleston,38.366183,-81.69371699999998,PM2.5 - Local Conditions,7.336975
+West Virginia,Fairmont,39.481483000000004,-80.13466700000001,PM2.5 - Local Conditions,7.621212
+West Virginia,Moundsville,39.915961,-80.733858,PM2.5 - Local Conditions,9.224576
+West Virginia,Morgantown,39.649367,-79.920867,PM2.5 - Local Conditions,7.198245999999998
+West Virginia,Wheeling,40.114876,-80.700972,PM2.5 - Local Conditions,8.102542
+West Virginia,Vienna,39.323533000000005,-81.55236699999998,PM2.5 - Local Conditions,7.771698
+Wisconsin,Madison,43.100838,-89.357298,PM2.5 - Local Conditions,8.011474999999999
+Wisconsin,Horicon,43.466111,-88.621111,PM2.5 - Local Conditions,6.711321000000001
+Wyoming,Laramie,41.311586,-105.591725,PM2.5 - Local Conditions,4.00678
+Wyoming,,42.529999,-108.720003,PM2.5 - Local Conditions,2.4844009999999996
+Wyoming,,43.081667,-107.549444,PM2.5 - Local Conditions,2.811905
+Wyoming,Lander,42.842168,-108.736281,PM2.5 - Local Conditions,7.655556
+Wyoming,Cheyenne,41.136846000000006,-104.818239,PM2.5 - Local Conditions,3.572414
+Wyoming,,41.182227000000005,-104.778334,PM2.5 - Local Conditions,3.02
+Wyoming,Casper,42.851064,-106.325088,PM2.5 - Local Conditions,4.121053
+Wyoming,Cody,44.524568,-109.06926000000001,PM2.5 - Local Conditions,2.898387
+Wyoming,Sheridan,44.815142,-106.955933,PM2.5 - Local Conditions,5.679592
+Wyoming,Sheridan,44.78275,-106.96432,PM2.5 - Local Conditions,4.242623
+Wyoming,,42.869824,-109.87076,PM2.5 - Local Conditions,2.767066
+Wyoming,Rock Springs,41.592536,-109.22085200000001,PM2.5 - Local Conditions,4.661667
+Wyoming,Jackson,43.45776,-110.79798999999998,PM2.5 - Local Conditions,3.923077
+Wyoming,,44.373056,-110.83083300000001,PM2.5 - Local Conditions,1.830063
+Puerto Rico,Adjuntas,18.175378,-66.725988,PM2.5 - Local Conditions,5.5529910000000005
+Puerto Rico,Bayamon,18.420089,-66.150615,PM2.5 - Local Conditions,6.820513
+Puerto Rico,Caguas,18.198712,-66.05223699999999,PM2.5 - Local Conditions,7.219658
+Puerto Rico,,18.383982999999997,-65.618888,PM2.5 - Local Conditions,6.868067
+Puerto Rico,Guayama,17.955378,-66.162122,PM2.5 - Local Conditions,5.303571
+Puerto Rico,Guaynabo,18.440095,-66.11446,PM2.5 - Local Conditions,7.4871789999999985
+Puerto Rico,Ponce,18.009558,-66.62724899999999,PM2.5 - Local Conditions,6.2858410000000005
+Virgin Islands,Charlotte Amalie,18.343811,-64.931389,PM2.5 - Local Conditions,8.218283999999999

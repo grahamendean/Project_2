@@ -1,5 +1,4 @@
-# Project_2
-Air Quality Data Project
+# Air Quality Data Project
 
 Air Quality Audit
 Welcome to our Air Quality github page. The purpose of this repository is to house 
@@ -16,16 +15,43 @@ It may also be correlated to individual health outcomes in certain geographic re
 We are analyzing this information as an academic endeavor focused on the use of Python, JavaScript, D3, and Leaflet for analytics and modeling.
 In this scenario, our deliverable will be meaningful visual outputs integrating end-user interactive functionality.  
 
-Process Flow Chart 
-https://github.com/grahamendean/Project_2/blob/main/Screen%20Shot%202020-10-14%20at%2011.33.32%20AM.png
+* Process Flow Chart 
+
+
+![File_Structure](File_Structure.png)
 
 
 Process
 1. We extracted the CSV data file from EPA.gov (https://www.epa.gov/outdoor-air-quality-data/air-data-daily-air-quality-tracker)
 2. We loaded the CSV file into Python with Jupyter Notebook to clean the data and narrow the columns to be evaluated.  
-3. The cleanded data was imported into SQLite. 
-4. App.py Flask will be leveraged to connect the backend data to our front-end display. 
-5. SQLite is then accessed by JavaScript from VSCode. 
-6. The data is jsonified. 
-7. CSS, HTML, Javascript, D3, and Leaflet  are used to create dashboard/charts and interactive functionality. 
+3. The cleanded data frames were imported into SQLite. 
+4. App.py Flask was leveraged to connect the backend data to our front-end display. 
+5. SQLite DB was then accessed through flask, and the data were passed to JavaScript.
+6. The data were jsonified. 
+7. CSS, HTML, Javascript, D3, myChart.js, and Leaflet were used to create dashboard, charts, and map, and interactive functionality. 
+
+* Our Main Webpage Image
+
+
+![Main_Page](Main_Page_Image.png)
+
+
+* Map Page Image
+
+
+![Sample_Location](Sample_Locations.png)
+
+
+* Graph Page Image
+
+
+![Graph_Image](Graph_Image.png)
+
+
+Enjoy!
+
+
+
+
+
 
