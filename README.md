@@ -30,3 +30,28 @@ Process
 6. The data were jsonified. 
 7. CSS, HTML, Javascript, D3, myChart.js, and Leaflet were used to create dashboard, charts, and map, and interactive functionality. 
 
+Our Main Webpage Image
+
+
+![Main_Page](Main_Page_Image.png)
+
+
+Map Page Image
+
+
+![Sample_Location](Sample_Locations.png)
+
+
+Graph Page Image
+
+
+![Graph_Image](Graph_Image.png)
+
+
+Enjoy!
+
+
+
+
+
+
