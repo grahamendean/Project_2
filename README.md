@@ -51,12 +51,6 @@ Process
 
 We found out that the state of Hawaii had the lowest values of Ozone and PM2.5 compared with other states. This founding might be explained by the location of Hawaii. Hawaii is the most remote island chain in the world, and is located in the middle of the Pacific Ocean. 
 
-Our website might be useful for the State of Hawaii to attract more travelers to Hawaii! It might be also useful for people who have some health issues (ex, asthma) to plan a travel in the United States.
+Our website might be useful for the State of Hawaii to attract more travelers to Hawaii! It might be also useful for people who have some health issues (ex, asthma) to make a travel plan in the United States.
 
 Enjoy!
-
-
-
-
-
-
